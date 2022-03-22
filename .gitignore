@@ -1,0 +1,10 @@
+original_MOT/
+processed_data/
+tasks_dump/
+tasks_upload/
+test/
+dataset/
+cvat/
+*/__pycache__/
+data_tree/
+CONCAT_DURATIONS_V2/
